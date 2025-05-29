@@ -4,15 +4,15 @@ export default function App() {
   return (
     <div className="min-h-screen bg-white text-gray-800 p-6">
       <header className="text-center py-8">
-        <h1 className="text-4xl font-bold">SP Tutoring World</h1>
-        <p className="mt-2 text-lg">Expert Tutoring in Math, Computer Science & More</p>
+        <h1 className="text-4xl font-bold">SP Tutoring</h1>
+        <p className="mt-2 text-lg">Expert Tutoring in Math and Programming</p>
       </header>
 
       <section className="max-w-4xl mx-auto py-6">
         <h2 className="text-2xl font-semibold mb-2">About</h2>
         <p>
-          Welcome to SP Tutoring World! I'm Sabesen, a Computer Science student at TMU,
-          offering personalized tutoring for high school and university students.
+          Welcome to SP Tutoring World! I'm Sabesen, a Third Computer Science student,
+          offering personalized tutoring for elementary and high school students.
         </p>
       </section>
 
@@ -25,10 +25,6 @@ export default function App() {
         </ul>
       </section>
 
-      <section className="max-w-4xl mx-auto py-6">
-        <h2 className="text-2xl font-semibold mb-2">Rates</h2>
-        <p>$45/hour · Discounts for bundles and group sessions.</p>
-      </section>
 
       <section className="max-w-4xl mx-auto py-6">
         <h2 className="text-2xl font-semibold mb-2">Contact</h2>
